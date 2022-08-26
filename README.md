@@ -6,7 +6,7 @@ MC
 
 ### 二级标
 
-```clike
+```c
 #include "abc.h"
 int main() { return 0; }
 ```
